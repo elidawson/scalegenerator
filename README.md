@@ -7,7 +7,7 @@ taken from "the audio programming book" by richard boulanger and victor lazzarin
 
 to run:
 
-clone repository \n
-cd to directory \n
-run in command line: \n
+clone repository
+cd to directory
+run in command line:
 ./scale_generator
