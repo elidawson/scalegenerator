@@ -4,7 +4,7 @@ int main()
 {
     int note, i;
     char key[3];
-    char* scale[12]={"C", "Db", "D", "E", "Eb", "E", "F", "Gb", "G", "Ab", "A", "Bb", "B"};
+    char* scale[12]={"C", "Db", "D", "Eb", "E", "F", "Gb", "G", "Ab", "A", "Bb", "B"};
     printf("enter the key(capitals only, use b for flats, no sharps, ex. Eb):");
     scanf("%s", key);
     /* use table to translate note name to pitch class */
